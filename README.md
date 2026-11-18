@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Altyx0, i'm a first-year computer systems engineering student.
+- 👋 Hi, I’m @Altyx0, i'm a computer systems engineering student.
 - 👀 I’m interested in learning more about this vast world of programming.
 - 🌱 I’m currently learning basics, like algorithms and a little bit of python.
 - 💞️ I’m looking to collaborate on ...
